@@ -12,7 +12,13 @@ https://kcnancy.github.io/AnotherDayPlanner/
 
 
 ## Description -
-This is a day planner where the user can input tasks or meetings in the description filed and when the save button is clicked the entry will be saved in local storage. The time of day is provided by the moment.js api. This allows the planner to be updated in color blocks to quickly draw attention to the current hour which displays in red. The hours that have passed are grey and the upcoming hours are green. 
+This is a day planner where the user can input tasks or meetings in the description filed and when the save button is clicked the entry will be saved in local storage. The time of day is provided by the moment.js api. This allows the planner to be updated in color blocks to quickly draw attention to the current hour which displays in red. The hours that have passed are grey and the upcoming hours are green.
+Video demo
+
+
+https://drive.google.com/file/d/1j8APgGGvdrlH1SENzFTCfpRQggZMlcL0/view
+
+![Day Planner Screen Shot](./assets/dayplanner.png)
 
 ## User Story -
 AS AN employee with a busy schedule
